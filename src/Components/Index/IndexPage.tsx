@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { Route, Routes } from 'react-router-dom'
 import NotFoundPage from '../NotFoundPage/NotFoundPage'
 import Pokedex from '../PokemonPages/Pokedex'

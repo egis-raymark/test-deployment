@@ -1,6 +1,5 @@
-import React from 'react'
+
 import TypeComponent from '../PokemonComponents/TypeComponent'
-import { useNavigate } from 'react-router-dom'
 
 interface Pokemon{
     name: string
